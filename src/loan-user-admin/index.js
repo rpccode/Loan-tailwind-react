@@ -1,0 +1,2 @@
+export { pages } from "./pages";
+
